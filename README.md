@@ -160,3 +160,7 @@ Split: **Train: 160,000 | Test: 40,000**
 - Future work includes **transformer fine-tuning** for improved context-sensitive classification.  
 
 ---
+
+## 8. Advancements
+
+- Fine Tune Tiny Recursive Model of Samsung after testing it
