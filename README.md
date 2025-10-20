@@ -52,7 +52,21 @@ This project focuses on **multi-class text classification** using the **Consumer
 - TF-IDF vectorization (for ML models)  
 - Padding & embeddings (for DL models)  
 
-![Text Preprocessing Pipeline](image)  
+```mermaid
+flowchart TD
+    A[Raw Text Data] --> B[Convert to lowercase & remove extra whitespaces]
+    B --> C[Remove emails and URLs]
+    C --> D[Remove special characters]
+    D --> E[Tokenization]
+    E --> F[Remove stopwords]
+    F --> G[Stemming]
+    G --> H[Reconstruct text from tokens]
+    H --> I[Compare original vs processed text]
+    I --> J[Visualization of results]
+    J --> K[Generate preprocessing summary]
+```
+
+
 
 ---
 
