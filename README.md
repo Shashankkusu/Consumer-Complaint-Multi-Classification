@@ -66,12 +66,8 @@ Split: **Train: 160,000 | Test: 40,000**
 - **Accuracy:** `0.9022`  
 
 **Classification Report:**  
-| Label | Precision | Recall | F1-Score |
-|-------|-----------|--------|----------|
-| 0     | 0.88      | 0.89   | 0.89     |
-| 1     | 0.86      | 0.85   | 0.85     |
-| 2     | 0.90      | 0.93   | 0.92     |
-| 3     | 0.97      | 0.94   | 0.95     |
+<img width="664" height="786" alt="XG-Boost" src="https://github.com/user-attachments/assets/a150224d-bad6-47cf-a397-78676e57db40" />
+
 
 ---
 
@@ -80,12 +76,7 @@ Split: **Train: 160,000 | Test: 40,000**
 - **Accuracy:** `0.9383`  
 
 **Classification Report:**  
-| Label | Precision | Recall | F1-Score |
-|-------|-----------|--------|----------|
-| 0     | 0.91      | 0.90   | 0.91     |
-| 1     | 0.91      | 0.88   | 0.90     |
-| 2     | 0.95      | 1.00   | 0.97     |
-| 3     | 0.98      | 0.97   | 0.97     |
+<img width="676" height="786" alt="lightgbm" src="https://github.com/user-attachments/assets/62a9ad9f-3600-4a95-85af-5490bc07827f" />
 
 ---
 
@@ -93,12 +84,9 @@ Split: **Train: 160,000 | Test: 40,000**
 - **Accuracy:** `0.9232`  
 
 **Classification Report:**  
-| Label | Precision | Recall | F1-Score |
-|-------|-----------|--------|----------|
-| 0     | 0.89      | 0.90   | 0.89     |
-| 1     | 0.90      | 0.85   | 0.87     |
-| 2     | 0.94      | 0.99   | 0.96     |
-| 3     | 0.96      | 0.96   | 0.96     |
+<img width="591" height="773" alt="cnn" src="https://github.com/user-attachments/assets/15655a2f-6370-44d3-a3e7-7d1df3d2deea" />
+<img width="663" height="498" alt="cnn-loss" src="https://github.com/user-attachments/assets/64f651d4-8057-48f9-94d5-8202100813b5" />
+
 
 ---
 
@@ -106,12 +94,9 @@ Split: **Train: 160,000 | Test: 40,000**
 - **Accuracy:** `0.9187`  
 
 **Classification Report:**  
-| Label | Precision | Recall | F1-Score |
-|-------|-----------|--------|----------|
-| 0     | 0.90      | 0.89   | 0.89     |
-| 1     | 0.87      | 0.86   | 0.87     |
-| 2     | 0.94      | 0.97   | 0.96     |
-| 3     | 0.96      | 0.95   | 0.96     |
+<img width="581" height="761" alt="LSTMGRU" src="https://github.com/user-attachments/assets/82463beb-dc97-4e42-8891-693d8bbe3ce8" />
+<img width="653" height="515" alt="LSTMGRU loss" src="https://github.com/user-attachments/assets/bf0e44e2-c4b2-44c5-9e12-b5fd552d4c08" />
+
 
 ---
 
@@ -119,12 +104,9 @@ Split: **Train: 160,000 | Test: 40,000**
 - **Accuracy:** `0.9215`  
 
 **Classification Report:**  
-| Label | Precision | Recall | F1-Score |
-|-------|-----------|--------|----------|
-| 0     | 0.91      | 0.87   | 0.89     |
-| 1     | 0.88      | 0.86   | 0.87     |
-| 2     | 0.93      | 0.99   | 0.96     |
-| 3     | 0.96      | 0.96   | 0.96     |
+<img width="577" height="760" alt="BIlistm+attention" src="https://github.com/user-attachments/assets/4634eb04-f5bc-4c44-867f-403e96ee544b" />
+<img width="648" height="504" alt="bilstm+attention loss" src="https://github.com/user-attachments/assets/fbd90f44-2147-46b8-abb9-1be3e9357163" />
+
 
 ---
 
