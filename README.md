@@ -25,9 +25,11 @@ This project focuses on **multi-class text classification** using the **Consumer
 | Mortgage | 2 |
 | Consumer Loan | 3 |
 
-- After label assignment, the dataset size further reduced to **2.6 GB**.  
+- After label assignment, the dataset size further reduced to **2.6 GB**.
+
 
 ### Class Distribution Issue  
+
 - Label **3 (Consumer Loan)** was **underrepresented**.  
 - To handle imbalance, **Hybrid Sampling** was applied.  
 - Final balanced dataset distribution:  
